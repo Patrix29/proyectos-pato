@@ -1,6 +1,6 @@
 variable = 1
 while (variable == 1):
-
+    
 
     print ("escribe tu nombre")
     nombre = input()
