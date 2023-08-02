@@ -5,7 +5,7 @@
 using namespace std;
 int numero = 0;
 int numeroU = 0;
-int vidas = 3;
+int vidas = 3;  
 
 int main (){
     srand(time(NULL));
