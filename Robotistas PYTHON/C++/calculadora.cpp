@@ -3,8 +3,8 @@ using namespace std;
 
 int num1 = 0, num2 = 0, decision = 0;
 int main (){
-    cout<<"inserta el primer numero"<<endl;
-    cin>>num1;
+    cout << "inserta el primer numero" << endl;
+    cin >> num1;
     cout<<"inserta el segundo numero"<<endl;
     cin>>num2;
     cout<<"presiona 1 para suma o 2 para resta, 3 para multiplicacion, 4 para divicion, 5 para porcentaje"<<endl;

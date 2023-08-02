@@ -4,7 +4,7 @@ using namespace std;
 int num  = 0;
 double decimal = 0.1;
 string palabra = "hola";
-char caracter = c;
+char caracter = 'd';
 bool banderas = false;
 
 //constantes
