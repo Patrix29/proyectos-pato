@@ -10,7 +10,7 @@ while(calculadora == 1):
 
         if(decision == 1):
             resultado = v1 + v2
-        elif(decision == 2):
+        elif(decision == 2):  
             resultado = v1 - v2
         elif(decision == 3):
             resultado = v1 * v2

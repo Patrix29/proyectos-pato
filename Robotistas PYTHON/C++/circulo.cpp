@@ -2,7 +2,7 @@
 #include <math.h>
 using namespace std;
 
-long area = 0, vol =0, alt = 0, rad = 0, decision = 0, base = 0;
+long area = 0, vol =0, alt = 0, rad = 0, decision = 0, base = 0, variable = 0;
 //funciones
 int carea (int radio){
     int areat = 3.14*(radio*radio);
